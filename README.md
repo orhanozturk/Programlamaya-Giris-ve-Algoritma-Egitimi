@@ -2,7 +2,7 @@
 
 İçerik Ders işleme sırası ile birebir değildir. Konu akışına göre değişim göstermektedir.
 
-## __Eğitim Uygulama Ağırlıklıklardır__ 
+## __Eğitim Uygulama Ağırlıklıdır__ 
 
 ##  __Programlamaya Giriş__
 - Sistem işleyişi tanıtımı <br>
