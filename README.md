@@ -2,6 +2,8 @@
 
 İçerik Ders işleme sırası ile birebir değildir. Konu akışına göre değişim göstermektedir.
 
+## __Eğitim Uygulama Ağırlıklıklardır__ 
+
 ##  __Programlamaya Giriş__
 - Sistem işleyişi tanıtımı <br>
 - Programın yazılış adımları <br>
@@ -21,23 +23,30 @@
 
 ## __Akış Şemaları__
 - Örnekler
+- Uygulamalar
 
 ## __İf Deyimi__
 - Örnekler
+- Uygulamalar
 
 ## __For Deyimi__
 - Örnekler
+- Uygulamalar
 
 ## __While Deyimi__
 - Örnekler
+- Uygulamalar
 
 ## __Diziler__
 - Örnekler
+- Uygulamalar
 
 ## __Matrisler__
 - Örnekler
+- Uygulamalar
 
 ## __Rasgele Sayı Üretimi__
 - Örnekler
+- Uygulamalar
 
 ## __Oyun Yazımı__
