@@ -1,6 +1,6 @@
 # 📚Programlamaya Giris ve Algoritma Egitimi(Düzenlenmektedir)
 
-### İçerik Ders işleme sırası ile birebir değildir. Konu akışına göre değişim göstermektedir.
+### İçerik, Ders işleme sırası ile birebir değildir. Konu akışı farklılık gösterebilir. <br>
 
 ## __Eğitim Uygulama Ağırlıklıdır__ 
 
