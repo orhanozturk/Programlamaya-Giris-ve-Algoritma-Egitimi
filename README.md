@@ -12,12 +12,12 @@
 
 ## 📌Temel Kavramlar
     ➡️ atom kavramı _(tokens)_ <br>
-    &emsp;&emsp;➡️ atom kategorileri _(token categories)_<br>
-    &emsp;&emsp;➡️ anahtar sözcükler _(keywords)_<br>
-    &emsp;&emsp;➡️ isimler _(identifiers)_<br>
-    &emsp;&emsp;➡️ sabitler _(constants - literals)_<br>
-    &emsp;&emsp;➡️ operatörler _(operators)_<br>
-    &emsp;&emsp;➡️ atomlarına ayırma _(tokenizing)_<br>
+        - atom kategorileri _(token categories)_<br>
+        - anahtar sözcükler _(keywords)_<br>
+        - isimler _(identifiers)_<br>
+        - sabitler _(constants - literals)_<br>
+        - operatörler _(operators)_<br>
+        - atomlarına ayırma _(tokenizing)_<br>
     ➡️ ifadeler (expressions)<br>
     ➡️ Örnekler
 
