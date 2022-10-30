@@ -4,49 +4,49 @@
 
 ## __Eğitim Uygulama Ağırlıklıdır__ 
 
-##  __Programlamaya Giriş__
-- Sistem işleyişi tanıtımı <br>
-- Programın yazılış adımları <br>
-- Derleyici ve Yorumlayıcı kavramı <br>
-- IDE kavramı <br>
+## 📌Programlamaya Giriş
+    ➡️ Sistem işleyişi tanıtımı <br>
+    ➡️ Programın yazılış adımları <br>
+    ➡️ Derleyici ve Yorumlayıcı kavramı <br>
+    ➡️ IDE kavramı <br>
 
-## __Temel Kavramlar__
-- atom kavramı _(tokens)_ <br>
-&emsp;&emsp;- atom kategorileri _(token categories)_<br>
-&emsp;&emsp;- anahtar sözcükler _(keywords)_<br>
-&emsp;&emsp;- isimler _(identifiers)_<br>
-&emsp;&emsp;- sabitler _(constants - literals)_<br>
-&emsp;&emsp;- operatörler _(operators)_<br>
-&emsp;&emsp;- atomlarına ayırma _(tokenizing)_<br>
-- ifadeler (expressions)<br>
-- Örnekler
+## 📌Temel Kavramlar
+    ➡️ atom kavramı _(tokens)_ <br>
+&emsp;&emsp;➡️ atom kategorileri _(token categories)_<br>
+&emsp;&emsp;➡️ anahtar sözcükler _(keywords)_<br>
+&emsp;&emsp;➡️ isimler _(identifiers)_<br>
+&emsp;&emsp;➡️ sabitler _(constants - literals)_<br>
+&emsp;&emsp;➡️ operatörler _(operators)_<br>
+&emsp;&emsp;➡️ atomlarına ayırma _(tokenizing)_<br>
+    ➡️ ifadeler (expressions)<br>
+    ➡️ Örnekler
 
-## __Akış Şemaları__
-- Örnekler
-- Uygulamalar
+## 📌Akış Şemaları
+    ➡️ Örnekler
+    ➡️ Uygulamalar
 
-## __İf Deyimi__
-- Örnekler
-- Uygulamalar
+## 📌İf Deyimi
+    ➡️ Örnekler
+    ➡️ Uygulamalar
 
-## __For Deyimi__
-- Örnekler
-- Uygulamalar
+## 📌For Deyimi
+    ➡️ Örnekler
+    ➡️ Uygulamalar
 
-## __While Deyimi__
-- Örnekler
-- Uygulamalar
+## 📌While Deyimi
+    ➡️ Örnekler
+    ➡️ Uygulamalar
 
-## __Diziler__
-- Örnekler
-- Uygulamalar
+## 📌Diziler
+    ➡️ Örnekler
+    ➡️ Uygulamalar
 
-## __Matrisler__
-- Örnekler
-- Uygulamalar
+## 📌Matrisler
+    ➡️ Örnekler
+    ➡️ Uygulamalar
 
-## __Rasgele Sayı Üretimi__
-- Örnekler
-- Uygulamalar
+## 📌Rasgele Sayı Üretimi
+    ➡️ Örnekler
+    ➡️ Uygulamalar
 
-## __Oyun Yazımı__
+## 📌Oyun Yazımı
